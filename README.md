@@ -1,6 +1,6 @@
 # IR Temperature Sensor
 
-An Arduino project that uses the **MLX90614 non-contact IR sensor** to measure and log human body (object) temperature over time via the Serial Monitor.
+An Arduino project that uses the **MLX90614 non-contact IR sensor** to measure and log human body (object) temperature over time via the Serial Monitor. This project was build for my biomedical engineering research project during the Fall 2024.
 
 ## Hardware
 
